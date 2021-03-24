@@ -9,4 +9,6 @@ class Point {
     }
 }
 
-module.exports=Point;
+
+
+export default Point

@@ -9,7 +9,7 @@ import DialogContentText from '@material-ui/core/DialogContentText';
 import Box from '@material-ui/core/Box';
 import Badge from '@material-ui/core/Badge';
 import './App.css';
-const RTreeAdapter=require("./RTreeAdapter");
+import RTreeAdapter from "./RTreeAdapter";
 RTreeAdapter.AddRootRegion();
 const initialState = { 
   IsDarkTheme: true,

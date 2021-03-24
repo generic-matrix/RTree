@@ -88,4 +88,4 @@ class Region {
     }
   }
 
-  module.exports=Region;
+export default Region
