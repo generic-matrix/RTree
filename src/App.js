@@ -79,6 +79,7 @@ const Main = () => {
     <div className="App" style={{"background-color":(IsDarkTheme)?"#282c34":"white"}}>
        <div className="App-header">
         <h2 style={{"text-align":"center","color":(IsDarkTheme)?"white":"black"}} >R Tree</h2>
+        <p style={{"font-size":"10px","text-align":"center","color":(IsDarkTheme)?"white":"black"}}>How to use ? <br/> Click Add Region to add a region ,you can double tap it to resize it and you can drag it <br/>To add a point you need a mouse and hover on the point you need to add a point and then press the mouse mid scroll button .<br/>You can click on show points to get to know the points which is searched<br/></p><a href="https://github.com/generic-matrix/RTree">Github</a><br/>
         <p style={{"font-size":"10px","text-align":"center","color":(IsDarkTheme)?"white":"black"}}>{Ms} MS time taken</p>
         {/*Options button*/}
         <div style={{"width":"100%","display":"flex","justify-content": "center"}}>
