@@ -4,10 +4,10 @@ To visualise R tree using squares
 
 # Hosted on
 
-https://dashboard.heroku.com/apps/rtree-viz/deploy/github
+https://rtree-viz.herokuapp.com
 
 
-![Screenshot ](https://i.ibb.co/Sd6dTXr/Screen-Shot-2021-03-24-at-12-13-37-PM.png)
+![Screenshot ](https://i.ibb.co/rmq9Tk8/Screen-Shot-2021-03-24-at-12-13-55-PM.png)
 
 ![Screenshot 2](https://i.ibb.co/nMRrvDG/Screen-Shot-2021-03-24-at-12-13-47-PM.png)
 
