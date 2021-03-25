@@ -4,7 +4,7 @@ To visualise R tree using squares
 
 # Hosted on
 
-https://rtree-viz.herokuapp.com
+https://generic-matrix.github.io/rtree-static/
 
 
 ![Screenshot ](https://i.ibb.co/rmq9Tk8/Screen-Shot-2021-03-24-at-12-13-55-PM.png)
